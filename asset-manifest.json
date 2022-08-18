@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/tailwindPortfolio/static/css/main.25008acf.css",
+    "main.js": "/tailwindPortfolio/static/js/main.53b27d15.js",
+    "static/media/item.png": "/tailwindPortfolio/static/media/item.ff88219c3589c8430b28.png",
+    "static/media/man.png": "/tailwindPortfolio/static/media/man.74bb83f04dbd66b05486.png",
+    "static/media/happyman.png": "/tailwindPortfolio/static/media/happyman.72a7458c4e6e6a5c5c6d.png",
+    "static/media/portrait.jpg": "/tailwindPortfolio/static/media/portrait.13c020580bed4119a186.jpg",
+    "static/media/happyportrait.jpg": "/tailwindPortfolio/static/media/happyportrait.a204e850b33dbe6fbcfc.jpg",
+    "static/media/dots.png": "/tailwindPortfolio/static/media/dots.f562c016f10c6ef473a9.png",
+    "index.html": "/tailwindPortfolio/index.html",
+    "main.25008acf.css.map": "/tailwindPortfolio/static/css/main.25008acf.css.map",
+    "main.53b27d15.js.map": "/tailwindPortfolio/static/js/main.53b27d15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25008acf.css",
+    "static/js/main.53b27d15.js"
+  ]
+}
