@@ -11,14 +11,14 @@ const About = ({theme}) => {
     >
       {/* LEFT */}
       <div class="relative">
-        <img class="h-1/4 absolute top-0 left-0" src={dots} alt=""/>
+        <img class="h-1/4 absolute top-0 left-0 bg-yellow-400/80 dark:bg-inherit dark:rounded-none rounded-full" src={dots} alt="dots" />
         <div class="h-full rounded-full overflow-hidden">
           <img  src={theme === "dark" ? portrait : happyportrait} alt="" />
         </div>
       </div>
       {/* RIGHT */}
-      <div class="my-auto flex flex-col gap-3">
-        <h1 class="text-indigo-600 font-bold">ABOUT ME</h1>
+      <div class="my-auto flex flex-col gap-5">
+        <h1 class="text-yellow-400 font-bold">ABOUT ME</h1>
         <h1 class="text-3xl font-medium dark:text-white">Better Design</h1>
         <h1 class="text-3xl font-medium dark:text-white">Better Experience</h1>
         <p class="text-gray-400">
@@ -29,7 +29,7 @@ const About = ({theme}) => {
          <div class="w-full bg-gray-200 h-1.5 rounded-md">
           <div class="w-11/12 bg-indigo-600 h-1.5 rounded-md"></div>
          </div>
-         <div id="percentage" className="w-full p-1 flex align-center justify-between text-xs dark:text-gray-200 font-bold">
+         <div id="percentage" className="w-full p-1 flex align-center justify-between text-xs dark:text-yellow-400 font-bold">
            <p>0%</p>
            <p>100%</p>
            <p className="uppercase">infinite%</p>
@@ -40,7 +40,7 @@ const About = ({theme}) => {
          <div class="w-full bg-gray-200 h-1.5 rounded-md">
           <div class="w-11/12 bg-indigo-600 h-1.5 rounded-md"></div>
          </div>
-         <div id="percentage" className="w-full p-1 flex align-center justify-between text-xs dark:text-gray-200 font-bold">
+         <div id="percentage" className="w-full p-1 flex align-center justify-between text-xs dark:text-yellow-400  font-bold">
            <p>0%</p>
            <p>100%</p>
            <p className="uppercase">infinite%</p>
@@ -51,7 +51,7 @@ const About = ({theme}) => {
          <div class="w-full bg-gray-200 h-1.5 rounded-md">
           <div class="w-11/12 bg-indigo-600 h-1.5 rounded-md"></div>
          </div>
-         <div id="percentage" className="w-full p-1 flex align-center justify-between text-xs dark:text-gray-200 font-bold">
+         <div id="percentage" className="w-full p-1 flex align-center justify-between text-xs dark:text-yellow-400  font-bold">
            <p>0%</p>
            <p>100%</p>
            <p className="uppercase">infinite%</p>
@@ -62,7 +62,7 @@ const About = ({theme}) => {
          <div class="w-full bg-gray-200 h-1.5 rounded-md">
           <div class="w-11/12 bg-indigo-600 h-1.5 rounded-md"></div>
          </div>
-         <div id="percentage" className="w-full p-1 flex align-center justify-between text-xs dark:text-gray-200 font-bold">
+         <div id="percentage" className="w-full p-1 flex align-center justify-between text-xs dark:text-yellow-400 font-bold">
            <p>0%</p>
            <p>100%</p>
            <p className="uppercase">infinite%</p>

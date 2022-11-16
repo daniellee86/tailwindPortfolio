@@ -1,10 +1,10 @@
 const Contact = () => {
   return (
-    <div id="contact" class="dark:bg-slate-900">
+    <div id="contact" class="dark:bg-slate-900 pb-10">
     <div class="container mx-auto">
       {/* TOP */}
       <div class="flex flex-col gap-3 items-center">
-        <h1 class="text-indigo-600 font-bold">CONTACT</h1>
+        <h1 class="text-yellow-400 font-bold">CONTACT</h1>
         <h1 class="text-3xl dark:text-white">Have a Question?</h1>
         <p class="w-1/2 text-center text-gray-400">
           Do you have an idea? Let's discuss it and see what we can do
