@@ -16,8 +16,9 @@ const About = ({theme}) => {
           <img  src={theme === "dark" ? portrait : happyportrait} alt="" />
         </div>
       </div>
-      {/* RIGHT */}
+      {/* RIGHT side*/}
       <div class="my-auto flex flex-col gap-5">
+      
         <h1 class="text-yellow-400 font-bold">ABOUT ME</h1>
         <h1 class="text-3xl font-medium dark:text-white">Better Design</h1>
         <h1 class="text-3xl font-medium dark:text-white">Better Experience</h1>
