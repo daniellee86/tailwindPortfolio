@@ -5,6 +5,7 @@ import linkedin from "../img/linkedin.png"
 import twitter from "../img/twitter.png"
 const Footer = () => {
   return (
+    //
     <div class="w-full bg-gray-800">
     <div class="container mx-auto py-5 flex items-center justify-between">
       <div class="flex items-center gap-2">
