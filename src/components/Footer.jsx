@@ -15,10 +15,10 @@ const Footer = () => {
         >© 2022. Daniel Clough.</span
       >
       <div class="flex gap-10">
-        <img class="w-8 cursor-pointer" src={facebook} alt="" />
-        <img class="w-8 cursor-pointer" src={instagram} alt="" />
-        <img class="w-8 cursor-pointer" src={twitter} alt="" />
-        <img class="w-8 cursor-pointer" src={linkedin} alt="" />
+        <img class="w-6 cursor-pointer" src={facebook} alt="" />
+        <img class="w-6 cursor-pointer" src={instagram} alt="" />
+        <img class="w-6 cursor-pointer" src={twitter} alt="" />
+        <img class="w-6 cursor-pointer" src={linkedin} alt="" />
       </div>
     </div>
   </div>

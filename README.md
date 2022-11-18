@@ -8,9 +8,9 @@ This aim for this project was to use as many different Tailwind CSS utlity class
 
 For the project I created a 'typical' developer portfolio and had quite a bit of fun implementing the design.
 
-Tailwind has a brilliant system for applying dark and light modes, so I implemented that into the project and took it a step further by conditionaling changing the design depending on kthe chosen mode.
+Tailwind has a brilliant system for applying dark and light modes, so I implemented that into the project and took it a step further by conditionally changing the design depending on the chosen mode.
 
-Through Tailwind utility classes I made use of typical layout systems with grid and flexbox, and I built this project in a 'mobile-first' way which is actually how tailwind works.
+Through Tailwind utility classes I made use of typical layout systems with grid and flexbox, and I built this project in a 'mobile-first' way which is how tailwind is designed to be used.
 
 Features:
 

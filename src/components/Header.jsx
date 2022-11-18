@@ -90,7 +90,7 @@ function Header({ theme, setTheme}) {
     {/* circle negative bottom position */}
     <div className="hidden lg:block absolute -bottom-1/3 right-0 left-0 mx-auto w-big h-big -z-20 bg-indigo-900 rounded-full "></div>
     {/* animated text */}
-    <div className="absolute top-1/3 left-5 text-3xl sm:left-10 sm:text-4xl md:left-28 md:text-6xl lg:text-8xl lg:left-10 xl:left-28 2xl:left-46 2xl:text-9xl  font-bold">
+    <div className="absolute top-1/3 left-5 text-3xl sm:left-10 sm:text-4xl md:left-28 md:text-6xl lg:text-7xl lg:left-10 xl:left-28 2xl:left-46 2xl:text-9xl  font-bold">
         <span className="text-gray-600 dark:text-white">Software</span>
         <div>
         <AutoTyping className="text-yellow-400"
